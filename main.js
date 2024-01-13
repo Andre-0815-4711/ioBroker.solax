@@ -18,7 +18,7 @@ let latitude;
 let timerSleep = 0;
 
 const _inverterType = {
-    1: 'X1-LX',
+    1: 'X1/X3-EVC',
     2: 'X-Hybrid',
     3: 'X1-Hybiyd/Fit',
     4: 'X1-Boost/Air/Mini',
